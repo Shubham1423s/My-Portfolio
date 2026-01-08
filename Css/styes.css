@@ -1,0 +1,163 @@
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+section {
+    padding: 60px 40px;
+    min-height: 40vh;
+}
+
+#about {
+    background-color: #f4f4f4;
+}
+
+#projects {
+    background-color: #eaeaea;
+}
+
+#contact {
+    background-color: #dcdcdc;
+}
+img{
+
+    margin-top: -999px;    
+  margin-left: 5px;   
+  margin-bottom: -6px; 
+  border-radius:30% ;
+
+ 
+}
+button{
+    margin-top: -999px;    
+  margin-left: px;   
+  margin-bottom: -6px; 
+  border-radius:0% ;
+
+}
+form{
+   
+   
+    padding: 60px 450px;
+    min-height: 8vh;
+    margin-bottom: -450px; 
+    background-color: #dcdcdc;
+    
+}
+
+.skills-section {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.skill-group {
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 18px;
+    background-color: #ffffff;
+}
+
+.skill-category {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.skill-items {
+    font-size: 15px;
+    color: #222222;
+}
+
+    .projects-section {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.project-card {
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-bottom: 28px;
+    background-color: #ffffff;
+}
+
+.project-title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.project-stack {
+    font-size: 14px;
+    color: #444444;
+    margin-bottom: 12px;
+}
+
+.project-summary {
+    font-size: 15px;
+    color: #333333;
+    margin-bottom: 12px;
+}
+
+.project-details {
+    padding-left: 18px;
+}
+
+.project-details li {
+    margin-bottom: 6px;
+    font-size: 15px;
+    color: #222222;
+}
+
+@media (max-width: 600px) {
+    .project-title {
+        font-size: 20px;
+    }
+
+    .section-title {
+        font-size: 24px;
+    }
+}.Photo {
+  
+  border: 2px solid black;
+  border-radius: 4000px;
+  margin-left: 400px; 
+  
+  
+}
+
+
+
