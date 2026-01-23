@@ -4,9 +4,7 @@ function showMessage() {
 }
 
 function openPdf(){
-    window.open("../Assets/Shubham_Soni_Resume.pdf", "_blank");
-
-    
+    window.open("/Assets/Shubham_Soni_Resume.pdf", "_blank");
 }
 function openLink(url){
     const newTab  = window.open(url,'_blank');
